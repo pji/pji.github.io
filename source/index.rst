@@ -16,7 +16,8 @@ It just is.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   /dune_ch1.rst
 
 
 Indices and tables
