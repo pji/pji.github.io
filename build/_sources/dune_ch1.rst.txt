@@ -201,6 +201,10 @@ things I think I've picked up:
     leaders, but it seems like it's pointing towards it being a bad
     idea to create supermen with the assumption they would be under
     your control.
+*   The message here may be that we are all a bit animals, and we
+    shouldn't wish for a full human to rule us.
+*   I'd say that has echoes in the Butlerian Jihad, but the concern
+    there was still men enslaving men, not men enslaving animals.
 
 The question now seems to be, if Paul is human, is what he does good?
 Is then his terrible purpose good, and if it is how is this a warning

@@ -18,6 +18,8 @@ It just is.
    :caption: Contents:
    
    /dune_ch1.rst
+   /dune_ch2.rst
+   /dune_ch3.rst
 
 
 Indices and tables
