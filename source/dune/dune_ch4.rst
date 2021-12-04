@@ -130,6 +130,22 @@ animals contribute productively to ecosystems? There is a cognitive
 dissonance there, but I'm not sure if it's the Bene Gesserit or if
 it's the author.
 
+Two things get set up here that will be important later:
+
+*   There are more Fremen than the Imperium suspects,
+*   Salusa Secondus may not be as rugged as it used to be.
+
+How long is a day? Thufir is heading to Arrakis a day earlier than
+Paul, and they are treating it like it's a long term parting. Yes,
+Arrakis is dangerous, but still. Maybe the threat of death is high
+enough they take good-byes more seriously?
+
+    What is the now?
+    
+    -- Paul, wondering about nature
+
+Well, yes, that's going to be a pertinent question before too long.
+
 
 Sidebar: Humans, Animals, and Ecology
 -------------------------------------
@@ -176,9 +192,61 @@ This is, after all, only chapter four.
 
 Gurney Halleck
 --------------
+Gurney is carrying a lute-like instrument. I don't recall that making
+an appearance in adaptations of *Dune.* I suppose it only leads to
+questions that aren't worth going into in a two hour film. Still, it's
+a nice character touch.
+
+Gurney's inkvine scar is a thing. Apparently inkvines are used as whipe
+in the "slave cribs" on Giedi Prime, home of the Harkonnens. It leaves
+a red mark that causes pain over many years. Little wonder that Gurney
+will have little love for the Harkonnens.
+
+Paul likes Gurney Halleck the most of all the Duke's men.
+
+    Mood's a thing for cattle or making love or playing the baliset.
+    It's not for fighting.
+    
+    --Gurney Hallick, on not being in the mood for fighting
+
+This is a fair point. If people are out to kill you, they won't stop
+because you're not in the mood. 
+
+The inkvine scar was a test similar to the test from the Reverend Mother.
+Presumably Gurney Halleck should be seen as a human, too.
+
+    I'm the well-trained fruit tree.... Full of well-trained feelings
+    and abilities and all of them grafted onto me–all bearing for
+    someone else to pick.
+
+    --Gurney Halleck, thinking about himself
+
+This is followed by Gurney remembering his younger sister who died in
+a pleasure house for Harkonnen troops. I suppose this links back to the
+similarity between the Atreides and Harkonnens. Maybe the Harkonnen's
+are worse, but they aren't different in kind. Both mold people into
+things that produce for them, rather than treating them as people in
+their own right. Maybe? It's a little unclear what prompts that thought
+from Gurney Halleck, so it's uncertain if the focus of that is the
+House or just being in a society in general.
+
+To paraphrase *Dangerous Beauty,*: we are both players, singing for
+our supper.
 
 
 Character First Thoughts
 ------------------------
 *   Thufir: I'm old.
+*   Gurney Halleck: It's sad Paul must grow up so soon.
 
+
+Conclusion
+----------
+Here are, I think the questions I'm left with:
+
+*   How much should we read into the Reverend Mother clenching her
+    fist when talking of how to rule?
+*   Is the cognitive dissonance in the Bene Gesserit's view of
+    ruling a problem the book recognizes?
+*   Why is Gurney a fruit tree, and what are we to take from that?
+*   Would things be different if Leto had visited Paul?
