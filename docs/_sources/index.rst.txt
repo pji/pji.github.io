@@ -17,9 +17,7 @@ It just is.
    :maxdepth: 2
    :caption: Contents:
    
-   /dune_ch1.rst
-   /dune_ch2.rst
-   /dune_ch3.rst
+   /dune/index.rst
 
 
 Indices and tables
