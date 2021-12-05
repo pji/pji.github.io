@@ -230,7 +230,7 @@ their own right. Maybe? It's a little unclear what prompts that thought
 from Gurney Halleck, so it's uncertain if the focus of that is the
 House or just being in a society in general.
 
-To paraphrase *Dangerous Beauty,*: we are both players, singing for
+To paraphrase *Dangerous Beauty:* we are both players, singing for
 our supper.
 
 
