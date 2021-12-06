@@ -43,6 +43,7 @@ twice before, and this will be abandoned. We'll see.
    /dune/dune_ch3.rst
    /dune/dune_ch4.rst
    /dune/dune_ch5.rst
+   /dune/dune_ch6.rst
 
 
 Indices and tables

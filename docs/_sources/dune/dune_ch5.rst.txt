@@ -69,7 +69,7 @@ They aren't wanting to just sleep with them. They are wanting to marry
 them. Even from the most prudish standpoint, that seems an indication
 if them being more generally admirable.
 
-    The compose poems to their knives.
+    They compose poems to their knives.
     
     --Dr. Yueh on the Fremen
 
@@ -108,7 +108,7 @@ I might be misremembering.
     cannot see and cannot hear another world all around us? What is
     there around us that we cannot—?
 
-    --Wanna Yueh's favorite passage of the Orange Catholic Bible
+    --Wanna Yueh's favorite passage of the *Orange Catholic Bible*
 
 That's got a lot of relevance to it. What senses do we need to detect
 Dr. Yueh's plot? What worlds will the senses of the Kwisatz Haderach
