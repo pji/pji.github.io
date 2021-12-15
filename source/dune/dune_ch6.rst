@@ -86,7 +86,7 @@ Emperor's involvement in the plot, it's likely the Emperor saw this
 coming.
 
 Of course, Duke Leto does get his wish: Fremen fighting under the
-Atreides banner. It just is under Paul, and it leeds to the Jihad.
+Atreides banner. It just is under Paul, and it leads to the Jihad.
 
 It's apparently not widely known that the Sardaukar come from Salusa
 Secondus.

@@ -44,6 +44,16 @@ twice before, and this will be abandoned. We'll see.
    /dune/dune_ch4.rst
    /dune/dune_ch5.rst
    /dune/dune_ch6.rst
+   /dune/dune_ch7.rst
+   /dune/dune_ch8.rst
+   /dune/dune_ch9.rst
+   /dune/dune_ch10.rst
+   /dune/dune_ch11.rst
+   /dune/dune_ch12.rst
+   /dune/dune_ch13.rst
+   /dune/dune_ch14.rst
+   /dune/dune_ch15.rst
+   /dune/dune_ch16.rst
 
 
 Indices and tables
